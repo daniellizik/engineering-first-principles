@@ -12,9 +12,9 @@ The golden rule is at the heart of our engineering culture: "Treat others as you
 
 ## Principle 2: Practice a healthy skepticism
 
-> *It is important not to worship what is known, but to question it.*
+> *I doubt, therefore I think, therefore I am.*
 >
-> — Jacob Bronowski
+> — Decartes
 
 Embracing a healthy skepticism enables us to challenge the status quo and continuously question our understanding of problems and solutions. By acknowledging our cognitive biases and being open to alternative perspectives, we cultivate an environment of continuous learning and improvement. We encourage research, exploration, and exposure to diverse technologies, languages, industries, and cultures, seeking inspiration from external domains to solve local challenges.
 
