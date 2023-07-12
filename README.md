@@ -1,7 +1,5 @@
 # Engineering First Principles
 
-See the original blog post https://www.tablecheck.com/en/blog/tech/frontend-engineering-first-principles/
-
 ## Principle 1: Be the developer you want to work with
 
 > *It is amazing what one can accomplish if one does not care who gets the credit.*
