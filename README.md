@@ -6,7 +6,9 @@
 >
 > — Harry Truman
 
-The golden rule is at the heart of my engineering culture: "Treat others as you would like others to treat you." I believe in fostering an environment of vulnerability, trust, empathy, and accountability. By supporting my teammate's growth, celebrating our achievements, and practicing egoless programming, I strive to create a team that thrives on holding each other accountable for our mutual success. I recognize the importance of maintaining a healthy work-life balance and prioritize personal health to ensure sustained productivity and well-being. I view my coworkers as internal customers, valuing their unique perspectives and treating our interactions as meaningful relationships rather than business transactions. By prioritizing their needs and providing exceptional support, I strengthen my team and cultivate an environment that embraces collaboration and success.
+The golden rule is at the heart of my engineering culture: "Treat others as you would like others to treat you." I believe in fostering an environment of vulnerability, trust, empathy, and accountability. By supporting my teammate's growth, celebrating our achievements, and practicing egoless programming, I strive to create a team that thrives on holding each other accountable for our mutual success.
+
+I recognize the importance of maintaining a healthy work-life balance and prioritize personal health to ensure sustained productivity and well-being. I view my coworkers as internal customers, valuing their unique perspectives and treating our interactions as meaningful relationships rather than business transactions. By providing exceptional support for their needs, I strengthen the relationship between my teams and their stakeholders and cultivate an environment that embraces collaboration and success.
 
 ## Principle 2: Practice a healthy skepticism
 
