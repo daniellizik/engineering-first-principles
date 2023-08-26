@@ -12,9 +12,9 @@ I recognize the importance of maintaining a healthy work-life balance and priori
 
 ## Principle 2: Practice a healthy skepticism
 
-> *I doubt, therefore I think, therefore I am.*
+> *It is important not to worship what is known, but to question it.*
 >
-> — Decartes
+> — Jacob Bronowski
 
 Embracing a healthy skepticism enables myself to challenge the status quo and continuously question the state of my own understanding. By confronting my own cognitive biases and being open to alternative perspectives, I cultivate an environment of continuous learning and improvement. I encourage research, exploration, and exposure to diverse technologies, languages, industries, and cultures, seeking inspiration from external domains to solve local challenges.
 
