@@ -44,7 +44,7 @@ Our ultimate goal as a software engineer is to create value for our customers. W
 
 ### Best Practices
 
-1. Don't rush into implementation before validating your assumptions and leap of faith hypotheses (the central tenent of lean methodology and product discovery).
+1. Don't rush into implementation before validating your assumptions and leap of faith hypotheses (the central tenet of lean methodology and product discovery).
 
 ## Principle 4: As simple as possible, as complicated as necessary
 
